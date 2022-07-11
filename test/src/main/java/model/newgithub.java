@@ -25,9 +25,7 @@ public class newgithub {
 		return name;
 	}
 
-	public String getEmail() {
-		return email;
-	}
+	
 
 	public String getPhone() {
 		return phone;
